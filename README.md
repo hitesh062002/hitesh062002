@@ -110,3 +110,199 @@ Become a Cloud-Native Java Engineer
 ```
 
 ---
+
+<!-- ========================= TECH STACK ========================= -->
+
+# 🛠 Tech Arsenal
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,git,github,maven,idea,vscode,aws"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💼 Technology Matrix
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="25%">
+
+### ☕
+
+## Java
+
+OOP
+
+Collections
+
+Exception Handling
+
+Multithreading
+
+Streams API
+
+Java 8+
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌱
+
+## Spring
+
+Spring Boot
+
+Spring MVC
+
+Spring Data JPA
+
+Hibernate
+
+REST APIs
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚛
+
+## Frontend
+
+React
+
+JavaScript
+
+HTML5
+
+CSS3
+
+Responsive UI
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁
+
+## Cloud
+
+AWS
+
+Git
+
+GitHub
+
+Oracle SQL
+
+Maven
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🎯 Current Focus
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🚀 Building
+
+✔ Java Enterprise Applications
+
+✔ REST APIs
+
+✔ Full Stack Web Applications
+
+✔ AWS Deployments
+
+</td>
+
+<td width="50%">
+
+### 📚 Learning
+
+✔ Microservices
+
+✔ Docker
+
+✔ Kubernetes
+
+✔ System Design
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🏅 Certification
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+<b>AWS Certified Cloud Practitioner</b>
+
+</p>
+
+<p align="center">
+
+Strong understanding of AWS Cloud concepts, EC2, IAM, VPC, S3, Route 53, CloudWatch and cloud security fundamentals.
+
+</p>
+
+---
+
+# 💡 What I Do
+
+```text
+☕ Develop scalable Java applications
+
+🌱 Build REST APIs using Spring Boot
+
+⚛ Create responsive web applications with React
+
+☁ Deploy applications on AWS
+
+🛠 Practice clean code and software design
+
+📚 Learn modern backend architecture
+```
+
+---
+
+# ⚡ Developer Mindset
+
+> **"Technology changes every day. Learning never stops. Every project is an opportunity to build something better than yesterday."**
+
+---
