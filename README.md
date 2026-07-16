@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=220&section=header&text=Hitesh%20Baskaran&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20|%20AWS%20Certified%20Cloud%20Practitioner&descAlignY=55"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;AWS+Certified+Cloud+Practitioner;Spring+Boot+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;AWS+Certified+Cloud+Practitioner;Always+Learning+New+Technologies" />
 </p>
 
 # 💫 About Me:
