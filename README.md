@@ -4,6 +4,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;AWS+Certified+Cloud+Practitioner;Always+Learning+New+Technologies" />
 </p>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=hitesh062002&theme=tokyonight&row=1&column=6"/>
+</p>
+
 # 💫 About Me:
 # Hi, I'm Hitesh Baskaran 👋<br><br>💻 Java Full Stack Developer<br>☁️ AWS Certified Cloud Practitioner<br>🌱 Currently improving my Full Stack Development & Cloud skills.<br>🚀 Passionate about building scalable and efficient applications.<br><br>## 🛠️ Tech Stack<br>- Java<br>- Spring Boot<br>- Hibernate<br>- HTML5<br>- CSS3<br>- JavaScript<br>- React<br>- MySQL<br>- Git & GitHub<br>- AWS (Cloud Practitioner)<br><br>## 📜 Certifications<br>✔ AWS Certified Cloud Practitioner<br><br>## 📫 Connect with Me<br>- Email: hiteshharish06@gmail.com<br><br>⭐ Thanks for visiting my profile!
 
