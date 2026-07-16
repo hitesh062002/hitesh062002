@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=220&section=header&text=Hitesh%20Baskaran&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20|%20AWS%20Certified%20Cloud%20Practitioner&descAlignY=55"/>
 # 💫 About Me:
 # Hi, I'm Hitesh Baskaran 👋<br><br>💻 Java Full Stack Developer<br>☁️ AWS Certified Cloud Practitioner<br>🌱 Currently improving my Full Stack Development & Cloud skills.<br>🚀 Passionate about building scalable and efficient applications.<br><br>## 🛠️ Tech Stack<br>- Java<br>- Spring Boot<br>- Hibernate<br>- HTML5<br>- CSS3<br>- JavaScript<br>- React<br>- MySQL<br>- Git & GitHub<br>- AWS (Cloud Practitioner)<br><br>## 📜 Certifications<br>✔ AWS Certified Cloud Practitioner<br><br>## 📫 Connect with Me<br>- Email: hiteshharish06@gmail.com<br><br>⭐ Thanks for visiting my profile!
 
