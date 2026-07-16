@@ -423,32 +423,6 @@ https://github.com/hitesh062002/java-dsa
 
 ---
 
-# 📈 Current Roadmap
-
-```text
-✅ Java Mastery
-
-✅ Spring Boot
-
-✅ REST APIs
-
-✅ React
-
-✅ Oracle SQL
-
-✅ AWS Cloud
-
-🔄 Microservices
-
-🔄 Docker
-
-🔄 Kubernetes
-
-🔄 System Design
-```
-
----
-
 # 🌟 Highlights
 
 🏆 Passionate about Java Development
@@ -462,20 +436,6 @@ https://github.com/hitesh062002/java-dsa
 🚀 Open Source Enthusiast
 
 🤝 Open for Collaboration
-
----
-
-# 💬 Favorite Quote
-
-> **"First, solve the problem. Then, write clean and maintainable code."**
-
----
-
-<p align="center">
-
-### ⭐ *"Building software that is simple, scalable, and impactful."*
-
-</p>
 
 ---
 
@@ -515,26 +475,6 @@ https://github.com/hitesh062002/java-dsa
 
 ---
 
-# 📜 Certifications
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-</p>
-
-<p align="center">
-
-✔ AWS Certified Cloud Practitioner
-
-✔ Java Full Stack Development
-
-✔ Cloud Fundamentals
-
-</p>
-
----
-
 # 🌟 Fun Facts
 
 ```text
@@ -560,8 +500,6 @@ https://github.com/hitesh062002/java-dsa
 ✅ Full Stack Web Development
 
 ✅ Cloud Projects (AWS)
-
-✅ Open Source Contributions
 
 ---
 
