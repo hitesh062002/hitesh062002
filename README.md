@@ -272,19 +272,7 @@ Maven
 </p>
 
 <p align="center">
-  <b>
-    <a href="https://www.credly.com/badges/3a164728-b1a5-45d5-ace8-795ab5ab8577" target="_blank">
-      AWS Certified Cloud Practitioner
-    </a>
-  </b>
-</p>
-
-<p align="center">
 Verified digital badge on Credly 🔗
-</p>
-
-<p align="center">
-Strong understanding of AWS Cloud concepts, EC2, IAM, VPC, S3, Route 53, CloudWatch, security fundamentals, pricing, and cloud best practices.
 </p>
 
 ### 📖 Skills Validated
@@ -300,6 +288,7 @@ Strong understanding of AWS Cloud concepts, EC2, IAM, VPC, S3, Route 53, CloudWa
 ---
 
 > **Successfully earned the AWS Certified Cloud Practitioner certification, demonstrating foundational knowledge of AWS Cloud services, security, architecture, pricing, and cloud best practices.**
+> 
 
 # 💡 What I Do
 
