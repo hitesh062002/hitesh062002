@@ -306,3 +306,397 @@ Strong understanding of AWS Cloud concepts, EC2, IAM, VPC, S3, Route 53, CloudWa
 > **"Technology changes every day. Learning never stops. Every project is an opportunity to build something better than yesterday."**
 
 ---
+
+<!-- ========================= FEATURED PROJECTS ========================= -->
+
+# 🚀 Featured Projects
+
+<p align="center">
+<i>Projects that reflect my passion for Java, Full Stack Development, and Cloud Technologies.</i>
+</p>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### ☕ Employee Management System
+
+**Tech Stack**
+
+`Java` `Spring Boot` `Hibernate` `Oracle SQL`
+
+✨ Features
+
+- Employee CRUD Operations
+- REST API Development
+- Database Integration
+- Layered Architecture
+
+🔗 **Repository**
+
+```text
+https://github.com/hitesh062002/employee-management-system
+```
+
+</td>
+
+<td width="50%">
+
+### 🛒 Full Stack E-Commerce
+
+**Tech Stack**
+
+`React` `Spring Boot` `Oracle SQL`
+
+✨ Features
+
+- Product Management
+- Shopping Cart
+- User Authentication
+- Responsive UI
+
+🔗 **Repository**
+
+```text
+https://github.com/hitesh062002/ecommerce-project
+```
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ☁ AWS Cloud Hands-on
+
+**Tech Stack**
+
+`AWS` `EC2` `VPC` `IAM` `S3`
+
+✨ Features
+
+- VPC Peering
+- EC2 Deployment
+- Nginx Hosting
+- Cloud Security
+
+🔗 **Repository**
+
+```text
+https://github.com/hitesh062002/aws-projects
+```
+
+</td>
+
+<td width="50%">
+
+### 📚 Java DSA Collection
+
+**Tech Stack**
+
+`Java`
+
+✨ Features
+
+- Arrays
+- Strings
+- Collections
+- Interview Problems
+
+🔗 **Repository**
+
+```text
+https://github.com/hitesh062002/java-dsa
+```
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📈 Current Roadmap
+
+```text
+✅ Java Mastery
+
+✅ Spring Boot
+
+✅ REST APIs
+
+✅ React
+
+✅ Oracle SQL
+
+✅ AWS Cloud
+
+🔄 Microservices
+
+🔄 Docker
+
+🔄 Kubernetes
+
+🔄 System Design
+```
+
+---
+
+# 🌟 Highlights
+
+🏆 Passionate about Java Development
+
+☁ AWS Certified Cloud Practitioner
+
+💻 Building Scalable Web Applications
+
+📚 Continuous Learner
+
+🚀 Open Source Enthusiast
+
+🤝 Open for Collaboration
+
+---
+
+# 💬 Favorite Quote
+
+> **"First, solve the problem. Then, write clean and maintainable code."**
+
+---
+
+<p align="center">
+
+### ⭐ *"Building software that is simple, scalable, and impactful."*
+
+</p>
+
+---
+
+<!-- ========================= GITHUB ANALYTICS ========================= -->
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hitesh062002&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hitesh062002&theme=tokyonight&hide_border=true&border_radius=15"/>
+</p>
+
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitesh062002&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=hitesh062002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hitesh062002&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=hitesh062002&style=for-the-badge&color=0e75b6"/>
+
+</p>
+
+---
+
+# ⚡ Developer Metrics
+
+<p align="center">
+
+| 💻 Coding | ☁ Cloud | 🚀 Backend | 🎨 Frontend |
+|:---------:|:-------:|:----------:|:-----------:|
+| Java | AWS | Spring Boot | React |
+| Oracle SQL | EC2 | REST APIs | HTML/CSS |
+| Hibernate | VPC | Microservices | JavaScript |
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> **Step 1:** Create a repository named `.github` (if you don't already have one).
+
+Inside it, create this folder structure:
+
+```text
+.github
+└── workflows
+    └── snake.yml
+```
+
+Paste this workflow into `snake.yml`:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: hitesh062002
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then add this to your README:
+
+```md
+<p align="center">
+<img src="https://github.com/hitesh062002/hitesh062002/blob/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+```
+
+---
+
+# 🚀 2027 Goals
+
+- ✅ Build 10+ Full Stack Projects
+- ✅ Master Spring Boot
+- ✅ Learn Microservices
+- ✅ Learn Docker
+- ✅ Learn Kubernetes
+- ✅ Strengthen AWS Skills
+- ✅ Contribute to Open Source
+- ✅ Become a Cloud-Native Java Engineer
+
+---
+
+<!-- ========================= CONNECT WITH ME ========================= -->
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:hiteshharish06@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="http://www.linkedin.com/in/m-b-hitesh-91b0a3250">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/hitesh062002">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📜 Certifications
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+✔ AWS Certified Cloud Practitioner
+
+✔ Java Full Stack Development
+
+✔ Cloud Fundamentals
+
+</p>
+
+---
+
+# 🌟 Fun Facts
+
+```text
+☕ Coffee + Java = Productivity ☕
+
+🚀 I enjoy building scalable backend applications.
+
+🌱 Every day is an opportunity to learn something new.
+
+💡 Clean code is not just a practice—it's a mindset.
+
+☁ Passionate about Cloud Computing and AWS.
+```
+
+---
+
+# 💼 Open For
+
+✅ Java Development
+
+✅ Spring Boot Projects
+
+✅ Full Stack Web Development
+
+✅ Cloud Projects (AWS)
+
+✅ Open Source Contributions
+
+---
+
+# 💬 Quote
+
+<p align="center">
+
+> **"Code with purpose. Build with passion. Learn without limits."**
+
+</p>
+
+---
+
+# ❤️ Thanks for Visiting
+
+<p align="center">
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+Let's build something amazing together! 🚀
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=150&section=footer"/>
+
+</p>
+
+<!-- ========================= END ========================= -->
