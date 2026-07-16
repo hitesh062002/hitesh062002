@@ -266,38 +266,26 @@ Maven
 # 🏅 Certifications
 
 <p align="center">
-<i>Professional certifications that validate my cloud knowledge and technical skills.</i>
+  <a href="https://www.credly.com/badges/3a164728-b1a5-45d5-ace8-795ab5ab8577" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  </a>
 </p>
 
----
+<p align="center">
+  <b>
+    <a href="https://www.credly.com/badges/3a164728-b1a5-45d5-ace8-795ab5ab8577" target="_blank">
+      AWS Certified Cloud Practitioner
+    </a>
+  </b>
+</p>
 
-<table align="center">
+<p align="center">
+Verified digital badge on Credly 🔗
+</p>
 
-<tr>
-
-<td width="100%" align="center">
-
-## ☁️ AWS Certified Cloud Practitioner
-
-<img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-### ✅ Status: Certified
-
-**Credential:** AWS Certified Cloud Practitioner (CLF-C02)
-
-**Score:** **724 / 1000**
-
-**Result:** **PASS**
-
-**Exam Date:** **April 5, 2024**
-
-</td>
-
-</tr>
-
-</table>
-
----
+<p align="center">
+Strong understanding of AWS Cloud concepts, EC2, IAM, VPC, S3, Route 53, CloudWatch, security fundamentals, pricing, and cloud best practices.
+</p>
 
 ### 📖 Skills Validated
 
