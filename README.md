@@ -77,3 +77,136 @@ Goal           : Become a Cloud-Native Java Engineer
 - 💡 I enjoy solving real-world problems through clean, maintainable code
 
 ---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,aws,git,github,maven,vscode,idea" />
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+</p>
+
+---
+
+# 💼 Core Skills
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+☕
+
+### Java
+
+Object-Oriented Programming
+
+Collections
+
+Exception Handling
+
+Multithreading
+
+</td>
+
+<td align="center" width="25%">
+
+🌱
+
+### Spring Boot
+
+REST APIs
+
+MVC
+
+Hibernate
+
+Spring Data JPA
+
+</td>
+
+<td align="center" width="25%">
+
+⚛️
+
+### Frontend
+
+React
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Responsive UI
+
+</td>
+
+<td align="center" width="25%">
+
+☁️
+
+### Cloud
+
+AWS
+
+Git
+
+GitHub
+
+Maven
+
+Oracle SQL
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📜 Certification
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+Successfully earned the AWS Certified Cloud Practitioner certification, demonstrating foundational knowledge of AWS Cloud services, architecture, security, and best practices.
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+> ⭐ Replace the repository links below with your actual repositories.
+
+| 🚀 Project | Technology |
+|------------|------------|
+| ☕ Employee Management System | Java • Spring Boot • Oracle SQL |
+| 🛒 E-Commerce Application | React • Spring Boot |
+| 🌐 REST API | Spring Boot • Hibernate |
+| ☁️ AWS Deployment Project | EC2 • S3 • IAM |
+| 📚 Java DSA | Java |
+
+---
+
+<p align="center">
+
+### ⭐ *"Every project is an opportunity to learn, improve, and build something meaningful."*
+
+</p>
+
+---
