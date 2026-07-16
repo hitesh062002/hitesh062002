@@ -261,27 +261,57 @@ Maven
 
 ---
 
-# 🏅 Certification
+---
+
+# 🏅 Certifications
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-</p>
-
-<p align="center">
-
-<b>AWS Certified Cloud Practitioner</b>
-
-</p>
-
-<p align="center">
-
-Strong understanding of AWS Cloud concepts, EC2, IAM, VPC, S3, Route 53, CloudWatch and cloud security fundamentals.
-
+<i>Professional certifications that validate my cloud knowledge and technical skills.</i>
 </p>
 
 ---
+
+<table align="center">
+
+<tr>
+
+<td width="100%" align="center">
+
+## ☁️ AWS Certified Cloud Practitioner
+
+<img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+### ✅ Status: Certified
+
+**Credential:** AWS Certified Cloud Practitioner (CLF-C02)
+
+**Score:** **724 / 1000**
+
+**Result:** **PASS**
+
+**Exam Date:** **April 5, 2024**
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+### 📖 Skills Validated
+
+- ☁️ AWS Cloud Concepts
+- 🔐 Security & Compliance
+- 🖥 AWS Core Services
+- 🌐 Networking Fundamentals
+- 💰 Billing & Pricing
+- 📊 Cloud Architecture Basics
+- 🚀 Best Practices for Cloud Adoption
+
+---
+
+> **Successfully earned the AWS Certified Cloud Practitioner certification, demonstrating foundational knowledge of AWS Cloud services, security, architecture, pricing, and cloud best practices.**
 
 # 💡 What I Do
 
@@ -304,122 +334,6 @@ Strong understanding of AWS Cloud concepts, EC2, IAM, VPC, S3, Route 53, CloudWa
 # ⚡ Developer Mindset
 
 > **"Technology changes every day. Learning never stops. Every project is an opportunity to build something better than yesterday."**
-
----
-
-<!-- ========================= FEATURED PROJECTS ========================= -->
-
-# 🚀 Featured Projects
-
-<p align="center">
-<i>Projects that reflect my passion for Java, Full Stack Development, and Cloud Technologies.</i>
-</p>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### ☕ Employee Management System
-
-**Tech Stack**
-
-`Java` `Spring Boot` `Hibernate` `Oracle SQL`
-
-✨ Features
-
-- Employee CRUD Operations
-- REST API Development
-- Database Integration
-- Layered Architecture
-
-🔗 **Repository**
-
-```text
-https://github.com/hitesh062002/employee-management-system
-```
-
-</td>
-
-<td width="50%">
-
-### 🛒 Full Stack E-Commerce
-
-**Tech Stack**
-
-`React` `Spring Boot` `Oracle SQL`
-
-✨ Features
-
-- Product Management
-- Shopping Cart
-- User Authentication
-- Responsive UI
-
-🔗 **Repository**
-
-```text
-https://github.com/hitesh062002/ecommerce-project
-```
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### ☁ AWS Cloud Hands-on
-
-**Tech Stack**
-
-`AWS` `EC2` `VPC` `IAM` `S3`
-
-✨ Features
-
-- VPC Peering
-- EC2 Deployment
-- Nginx Hosting
-- Cloud Security
-
-🔗 **Repository**
-
-```text
-https://github.com/hitesh062002/aws-projects
-```
-
-</td>
-
-<td width="50%">
-
-### 📚 Java DSA Collection
-
-**Tech Stack**
-
-`Java`
-
-✨ Features
-
-- Arrays
-- Strings
-- Collections
-- Interview Problems
-
-🔗 **Repository**
-
-```text
-https://github.com/hitesh062002/java-dsa
-```
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
