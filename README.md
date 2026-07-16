@@ -1,24 +1,51 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=220&section=header&text=Hitesh%20Baskaran&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20|%20AWS%20Certified%20Cloud%20Practitioner&descAlignY=55"/>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;AWS+Certified+Cloud+Practitioner;Always+Learning+New+Technologies" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Hitesh%20Baskaran&fontAlign=50&fontAlignY=38&fontSize=48&desc=Java%20Full%20Stack%20Developer%20|%20AWS%20Certified%20Cloud%20Practitioner&descAlignY=58"/>
 </p>
 
-# 💫 About Me:
-# Hi, I'm Hitesh Baskaran 👋<br><br>💻 Java Full Stack Developer<br>☁️ AWS Certified Cloud Practitioner<br>🌱 Currently improving my Full Stack Development & Cloud skills.<br>🚀 Passionate about building scalable and efficient applications.<br><br>## 🛠️ Tech Stack<br>- Java<br>- Spring Boot<br>- Hibernate<br>- HTML5<br>- CSS3<br>- JavaScript<br>- React<br>- MySQL<br>- Git & GitHub<br>- AWS (Cloud Practitioner)<br><br>## 📜 Certifications<br>✔ AWS Certified Cloud Practitioner<br><br>## 📫 Connect with Me<br>- Email: hiteshharish06@gmail.com<br><br>⭐ Thanks for visiting my profile!
+<h1 align="center">✨ Welcome to My Digital Workspace ✨</h1>
 
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hiteshharish06@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hitesh062002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=hitesh062002&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hitesh062002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;AWS+Certified+Cloud+Practitioner;Spring+Boot+%7C+React+Developer;Cloud+Enthusiast;Always+Learning+Something+New"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=hitesh062002&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+### 💎 About Me
+
+☕ Java Full Stack Developer
+
+☁️ AWS Certified Cloud Practitioner
+
+🚀 Passionate about Scalable Applications
+
+🌱 Learning Microservices & System Design
+
+🎯 Future Cloud Architect
+
+</div>
+
+---
+
+## 🛠️ Glass Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,mysql,git,github,aws,vscode"/>
+
+</p>
+
+---
+
+## 🌟 Current Focus
+
+```text
+☕ Java & Spring Boot
+⚛️ React Development
+☁️ AWS Cloud Services
+🗄️ MySQL Database Design
+🚀 Full Stack Projects
+```
+
+---
